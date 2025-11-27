@@ -27,21 +27,17 @@
 
 ---
 
-## 📌 Pinned Projects
+## 🚀 Featured Projects
 
-<a href="https://github.com/Etay0109/game-2048">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Etay0109&repo=game-2048&theme=default" />
-</a>
+- 🎮 **[game-2048](https://github.com/Etay0109/game-2048)**  
+  A multi-stage C implementation of the 2048 puzzle game, including tile merging, board updates, and progression system (16 → 32 → 2048).
 
-<a href="https://github.com/Etay0109/superMarket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Etay0109&repo=superMarket&theme=default" />
-</a>
+- 🛒 **[superMarket](https://github.com/Etay0109/superMarket)**  
+  A complete supermarket management system in C, featuring customers, club members, product inventory, sorting (bsearch), linked lists, dynamic memory handling, and file persistence.
 
-<a href="https://github.com/Etay0109/Food-Store-SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Etay0109&repo=Food-Store-SQL&theme=default" />
-</a>
+- 🗄️ **[Food-Store-SQL](https://github.com/Etay0109/Food-Store-SQL)**  
+  A Java + PostgreSQL management system supporting buyers, sellers, products, shopping carts, payments, special packaging, and full order history tracking.
 
----
 
 ## 📊 Most Used Languages
 
@@ -51,4 +47,10 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/etay-zerachowitz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/etay-zerachowitz)
+
+<a href="mailto:etay192001@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-PROFILE-blue?style=for-the-badge&labelColor=444" />
+</a>
+
+
