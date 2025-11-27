@@ -1,0 +1,4 @@
+# Hide CMake from GitHub language statistics
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+cmake/* linguist-detectable=false
