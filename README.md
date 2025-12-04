@@ -41,8 +41,7 @@
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etay0109&layout=compact&theme=default&langs_count=6)](https://github.com/Etay0109)
-
+![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Etay0109&layout=compact&theme=default&langs_count=6)
 ---
 
 ## 📫 Connect with me
