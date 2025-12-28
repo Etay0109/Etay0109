@@ -15,6 +15,8 @@
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="48"/>
   <img src="https://skillicons.dev/icons?i=c&theme=light" height="48"/>
   <img src="https://skillicons.dev/icons?i=cs&theme=light" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" />
+
 </p>
 
 ### **Tools & Technologies**
@@ -22,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=linux&theme=light" height="48"/>
   <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="48"/>
   <img src="https://skillicons.dev/icons?i=unity&theme=light" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" />
 
 </p>
 
