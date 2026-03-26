@@ -2,49 +2,34 @@
 
 🎓 Third-year Computer Science student at **Afeka College of Engineering**  
 🛡️ Experience in a classified unit of the **Ministry of Defense**  
-🚀 Highly motivated, fast self-learner, and excellent team player  
-📌 Seeking my first technological challenge in a professional and supportive environment  
+💡 Proven technical capabilities through complex academic and independent projects, with a strong motivation to learn and grow
 
 ---
 
-## 🧠 My Skill Set
+### 🧠 My Skill Set
 
-### **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=light" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="48"/>
-  <img src="https://skillicons.dev/icons?i=c&theme=light" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" />
+#### 💻 Programming Languages  
+🐍 Python • ☕ Java • C • C# • SQL • 🟣 Kotlin • Assembly (MIPS)  
 
-</p>
-
-### **Tools & Technologies**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="48"/>
-  <img src="https://skillicons.dev/icons?i=unity&theme=light" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" />
-
-</p>
+#### ⚙️ Technologies & Tools  
+📱 Android (Android Studio, Firebase) • 🐘 PostgreSQL • 🐧 Linux • 🎮 Unity  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎮 **[game-2048](https://github.com/Etay0109/game-2048)**  
-  A multi-stage C implementation of the 2048 puzzle game, including tile merging, board updates, and progression system (16 → 32 → 2048).
+- 📱 **[ETravel App](https://github.com/Etay0109/ETravel-APP)**  
+  Developed an Android travel application in Kotlin using Firebase (Authentication, Realtime Database, Storage) with real-time data and user-focused features.
 
-- 🛒 **[superMarket](https://github.com/Etay0109/superMarket)**  
-  A complete supermarket management system in C, featuring customers, club members, product inventory, sorting (bsearch), linked lists, dynamic memory handling, and file persistence.
+- 💻 **[Food Store Management System](https://github.com/Etay0109/Food-Store-SQL)**  
+  Developed in Java with SQL integration for data persistence and CRUD operations.
 
-- 🗄️ **[Food-Store-SQL](https://github.com/Etay0109/Food-Store-SQL)**  
-  A Java + PostgreSQL management system supporting buyers, sellers, products, shopping carts, payments, special packaging, and full order history tracking.
+- 🎮 **[Game 2048](https://github.com/Etay0109/game-2048)**  
+  Implemented in C using dynamic memory allocation and modular design.
 
+- 🕹 **[Pirate Game](https://github.com/Etay0109/Pirate-Game)**  
+  Developed in Unity (C#) with custom game mechanics and UI design.
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Etay0109&layout=compact&theme=default&langs_count=6)
 ---
 
 ## 📫 Connect with me
