@@ -21,7 +21,7 @@
 - 🚗 **[SecureRide](https://github.com/Etay0109/SecureRide)**  
   Built a secure full-stack vehicle marketplace with React, FastAPI, PostgreSQL, JWT authentication, and real-time messaging.
 
-  - 📍 **[GeoSurvey SDK](https://github.com/Etay0109/GeoSurvey)**  
+- 📍 **[GeoSurvey SDK](https://github.com/Etay0109/GeoSurvey)**  
   Built a full-stack survey and analytics platform with an Android SDK (Kotlin), FastAPI, PostgreSQL, and React.
 
 - 📱 **[ETravel App](https://github.com/Etay0109/ETravel-APP)**  
