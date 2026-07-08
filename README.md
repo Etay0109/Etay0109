@@ -18,17 +18,21 @@
 
 ## 🚀 Featured Projects
 
+- 🚗 **[SecureRide](https://github.com/Etay0109/SecureRide)**  
+  Built a secure full-stack vehicle marketplace with React, FastAPI, PostgreSQL, JWT authentication, and real-time messaging.
+
+  - 📍 **[GeoSurvey SDK](https://github.com/Etay0109/GeoSurvey)**  
+  Built a full-stack survey and analytics platform with an Android SDK (Kotlin), FastAPI, PostgreSQL, and React.
+
 - 📱 **[ETravel App](https://github.com/Etay0109/ETravel-APP)**  
   Developed an Android travel application in Kotlin using Firebase (Authentication, Realtime Database, Storage) with real-time data and user-focused features.
 
 - 💻 **[Food Store Management System](https://github.com/Etay0109/Food-Store-SQL)**  
   Developed in Java with SQL integration for data persistence and CRUD operations.
 
-- 🎮 **[Game 2048](https://github.com/Etay0109/game-2048)**  
-  Implemented in C using dynamic memory allocation and modular design.
 
-- 🕹 **[Pirate Game](https://github.com/Etay0109/Pirate-Game)**  
-  Developed in Unity (C#) with custom game mechanics and UI design.
+
+
 
 ---
 
