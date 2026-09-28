@@ -1,7 +1,10 @@
 # Hi 👋, I'm Etay Zerachowitz
 🎓 M.Sc. student in Machine Learning & Data Science **Reichman University**
+
 💻 B.Sc. graduate in Computer Science, **Afeka College of Engineering** 
+
 🛡️ Experience in a classified unit of the **Ministry of Defense**  
+
 💡 Proven technical capabilities through complex academic and independent projects, with a strong motivation to learn and grow
 
 ---
